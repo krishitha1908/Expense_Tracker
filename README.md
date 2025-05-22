@@ -5,6 +5,7 @@
 Byte Me simplifies personal finance by enabling quick expense logging, smart categorization, and real-time insights—all with the help of an AI assistant.
 
 🔑 Key Features
+
 Fast Logging: Add expenses in seconds with minimal effort.
 
 Auto Categorization: Transactions are sorted into categories like Food, Travel, etc.
@@ -20,6 +21,7 @@ Budget Alerts: Get notified as you approach or exceed limits.
 AI Chatbot: Ask budget-related questions and receive personalized advice.
 
 🧠 Use Cases
+
 Monitor monthly budgets
 
 Analyze past spending
