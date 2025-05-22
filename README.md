@@ -1,7 +1,7 @@
 # Expense_Tracker
 
 
-💼 Byte Me – Effortless Expense Tracking
+💼 **Byte Me – Effortless Expense Tracking**
 Byte Me simplifies personal finance by enabling quick expense logging, smart categorization, and real-time insights—all with the help of an AI assistant.
 
 🔑 Key Features
